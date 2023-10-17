@@ -1,0 +1,24 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "checked": false,
+      "item": "visit "
+    },
+    {
+      "id": 2,
+      "checked": true,
+      "item": "book "
+    },
+    {
+      "id": 3,
+      "checked": true,
+      "item": "umbrella "
+    },
+    {
+      "id": 4,
+      "checked": false,
+      "item": "New"
+    }
+  ]
+}
